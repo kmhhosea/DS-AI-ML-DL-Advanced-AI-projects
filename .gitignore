@@ -29,4 +29,16 @@ ML learning with mini projects.ipynb
 data/
 models/
 
-.gitignore
+
+
+
+# Python
+
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+
+.venv/
