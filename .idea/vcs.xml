@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeNot/100-ai-ml-projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeNot/Deep-ML-Solutions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeNot/competition-winners" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeNot/data-science-projects" vcs="Git" />
   </component>
 </project>

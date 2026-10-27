@@ -1,0 +1,32 @@
+# Ignore folder MeNot
+MeNot/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# other files
+importingFile.txt
+ML learning with mini projects.ipynb
+
+.idea/
+data/
+models/
+
+.gitignore
